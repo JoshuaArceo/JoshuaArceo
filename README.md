@@ -31,7 +31,7 @@ Environments:  Arch Linux | Kali | VirtualBox | PlatformIO | mBed
 ## Reach Me
 
 * Email: [jarceo@iastate.edu](mailto:jarceo@iastate.edu)
-* Website: [josha.tech](https://josha.tech)
+
 
 ---
 
